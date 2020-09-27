@@ -20,6 +20,9 @@ The main notebook to run is the hazard_detection notebook. This contains everyth
 ## Dataset
 The dataset is configured for the KITTI Tensorflow Dataset, stored in a private Google Cloud Storage. (May be removed in a few months)
 
+## Demo
+
+[<img src="_static/images/youtube.jpg" width = 50% height = 50% alt=" Hazard Detection for Self-Driving cars using Monocolar camera feed" align=center>](https://www.youtube.com/embed/jc7VgPQDn0A)
 
 ### Acknowledgements
 Uses [SORT Algorithm](https://github.com/abewley/sort) by Alex Bewley
